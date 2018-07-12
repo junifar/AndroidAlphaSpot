@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<navigationModel
+  ns = "http://schemas.android.com?import=com.android.tools.idea.editors.navigation.model.*">
+  <locations  
+    class = "java.util.ArrayList">
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.ActivityState"      
+        className = "com.mobile.transpotid.transpot.Payment"/>
+      <point      
+        x = "3400"      
+        y = "424"/>
+    </statePointEntry>
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.ActivityState"      
+        className = "com.mobile.transpotid.transpot.Forget"/>
+      <point      
+        x = "3036"      
+        y = "4240"/>
+    </statePointEntry>
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.ActivityState"      
+        className = "com.mobile.transpotid.transpot.List"/>
+      <point      
+        x = "4583"      
+        y = "926"/>
+    </statePointEntry>
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.ActivityState"      
+        className = "com.mobile.transpotid.transpot.MapsActivity"/>
+      <point      
+        x = "233"      
+        y = "70"/>
+    </statePointEntry>
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.ActivityState"      
+        className = "com.mobile.transpotid.transpot.Home"/>
+      <point      
+        x = "5477"      
+        y = "294"/>
+    </statePointEntry>
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.ActivityState"      
+        className = "com.mobile.transpotid.transpot.MainActivity"/>
+      <point      
+        x = "1856"      
+        y = "49"/>
+    </statePointEntry>
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.ActivityState"      
+        className = "com.mobile.transpotid.transpot.Dashboard"/>
+      <point      
+        x = "4882"      
+        y = "2997"/>
+    </statePointEntry>
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.ActivityState"      
+        className = "com.mobile.transpotid.transpot.Detail_Mission"/>
+      <point      
+        x = "6671"      
+        y = "2426"/>
+    </statePointEntry>
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.ActivityState"      
+        className = "com.mobile.transpotid.transpot.LogMission"/>
+      <point      
+        x = "2033"      
+        y = "1112"/>
+    </statePointEntry>
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.ActivityState"      
+        className = "com.mobile.transpotid.transpot.Setting"/>
+      <point      
+        x = "3428"      
+        y = "862"/>
+    </statePointEntry>
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.ActivityState"      
+        className = "com.mobile.transpotid.transpot.Verifikasi"/>
+      <point      
+        x = "7842"      
+        y = "223"/>
+    </statePointEntry>
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.ActivityState"      
+        className = "com.mobile.transpotid.transpot.Register"/>
+      <point      
+        x = "851"      
+        y = "1006"/>
+    </statePointEntry>
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.ActivityState"      
+        className = "com.mobile.transpotid.transpot.Detail_MyMission"/>
+      <point      
+        x = "6670"      
+        y = "181"/>
+    </statePointEntry>
+  </locations>
+</navigationModel>

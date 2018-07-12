@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="10dp"
+    android:paddingTop="10dp"
+    tools:context="com.mobile.transpotid.transpot.Setting">
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="fill_parent"
+        android:background="#FFFFFF" >
+
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:paddingTop="10dp"
+            android:paddingBottom="10dp"
+            android:gravity="center"
+            android:paddingLeft="10dp"
+            android:paddingRight="10dp">
+
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Profile"
+                android:id="@+id/button3"
+                android:background="@android:drawable/button_onoff_indicator_on"
+                android:layout_weight="1"
+                android:layout_margin="10dp"
+                android:drawableTint="@android:drawable/btn_star_big_on" />
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Change Password"
+                android:id="@+id/button4"
+                android:background="@android:drawable/button_onoff_indicator_on"
+                android:layout_weight="1"
+                android:layout_margin="10dp" />
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Wallet"
+                android:id="@+id/button5"
+                android:background="@android:drawable/button_onoff_indicator_on"
+                android:layout_weight="1"
+                android:layout_margin="10dp" />
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Term of Service"
+                android:id="@+id/button6"
+                android:background="@android:drawable/button_onoff_indicator_on"
+                android:layout_weight="1"
+                android:layout_margin="10dp" />
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Rate the App"
+                android:id="@+id/button7"
+                android:background="@android:drawable/button_onoff_indicator_on"
+                android:layout_weight="1"
+                android:layout_margin="10dp" />
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Call Us"
+                android:id="@+id/button8"
+                android:background="@android:drawable/button_onoff_indicator_on"
+                android:layout_weight="1"
+                android:layout_margin="10dp" />
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Logout"
+                android:id="@+id/btn_logout"
+                android:background="@android:drawable/button_onoff_indicator_on"
+                android:layout_weight="1"
+                android:layout_margin="10dp" />
+
+
+        </LinearLayout>
+
+    </LinearLayout>
+</RelativeLayout>

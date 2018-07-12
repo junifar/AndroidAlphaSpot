@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">TranspotID</string>
+    <string name="content_open_popup">Open Popup Menu</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_home">Home</string>
+    <string name="menu_remove">Remove</string>
+    <string name="title_activity_list">List</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_payment">Payment</string>
+    <string name="title_activity_dashboard">Dashboard</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <!-- Connection to JSON -->
+    <!--<string name="member">http://103.43.46.168:7000/member/?format=json</string>-->
+    <string name="member">https://transpotrest.herokuapp.com/member/?format=json</string>
+    <string name="mission">https://transpotrest.herokuapp.com/mission/?format=json</string>
+    <string name="mymission">https://transpotrest.herokuapp.com/mymission/?format=json</string>
+
+</resources>
